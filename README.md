@@ -1,5 +1,4 @@
 # arun-inventory-management-using-flask
-# arun-inventory-management-using-flask
 # Inventory-Manager
 An inventory management system using Flask
 
